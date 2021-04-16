@@ -3,3 +3,7 @@ Resolusi Aim bulan ini dan bulan depan.
 - Mahir HTML
 - Mahir css
 - Mahir Javasrcipt
+- Mahir React Native
+- Mahir Angular
+- Mahir Ajax
+- Jadi fullstack Developers
